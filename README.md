@@ -13,3 +13,6 @@ Create the database and tables using the provided SQL scripts in database.sql. M
 bash Copy code python app.py Open the application in your browser at http://127.0.0.1:5000.
 
 Usage Browse the available dishes and add them to your cart. Provide a delivery address and place an order. The order details are stored in the MySQL database for processing. Screenshots
+![image](https://github.com/user-attachments/assets/4c2dc39e-c257-48cc-aa13-0bae9d4d370b)
+![image](https://github.com/user-attachments/assets/7adc52af-c463-4e44-a9db-0c1104a128ee)
+![image](https://github.com/user-attachments/assets/8053646f-9cf0-4037-a1f3-27b93f7b9fba)
