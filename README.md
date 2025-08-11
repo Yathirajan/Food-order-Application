@@ -1,5 +1,5 @@
 # Food-order-Application
-Zomato-like App A full-stack web application simulating a food delivery platform, where users can browse menu items, add them to a cart, and place orders with delivery addresses.
+A full-stack web application simulating a food delivery platform, where users can browse menu items, add them to a cart, and place orders with delivery addresses.
 
 Features Menu Browsing: View dishes available for order with details like name and price. Cart Management: Add, update, or remove items from the cart, and see the total price. Order Placement: Users can provide a delivery address and place orders. MySQL Database: Stores user orders, items, customer data, and payment information. Admin Functionality: Basic mock payment system to simulate transactions. Technologies Frontend: HTML, CSS, JavaScript Backend: Flask (Python) Database: MySQL Tools: VS Code, Postman, MySQL Workbench Setup Instructions Prerequisites Make sure you have the following installed:
 
